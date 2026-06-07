@@ -35,6 +35,7 @@
 		</VirtualTargets>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add option="-ansi" />
 		</Compiler>
 		<Unit filename="startrek.c">
 			<Option compilerVar="CC" />
